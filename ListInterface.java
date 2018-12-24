@@ -11,8 +11,8 @@ public interface ListInterface<T> {
 	 * Adds a new entry to the end of this list. Entries currently in the list
 	 * are unaffected. The list's size is increased by 1.
 	 * 
-	 * @param newEntry
-	 *            The object to be added as a new entry.
+	 * @param newEntry The object to be added as a new entry.
+	 * 
 	 */
 	public void add(T newEntry);
 
